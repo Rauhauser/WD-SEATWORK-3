@@ -98,7 +98,7 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-SEATWORK-3
+WD-ProjectName
 └─ assets
 |   └─ css
 |   |   └─ style.css
