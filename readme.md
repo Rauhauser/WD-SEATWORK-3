@@ -57,13 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-The project displays usage of header, footers and the additional landing page.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+This website is designed to serve as a comprehensive showcase of my current expertise in web development, demonstrating my ability to create engaging and functional web pages using modern technologies. The project includes a meticulously crafted landing page along with several additional pages, each highlighting different aspects of web design and development. Through the use of pure HTML, and CSS I've incorporated a variety of features and techniques to enhance the user experience.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
